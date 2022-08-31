@@ -12,7 +12,8 @@ ReactJS resources and source codes by Neck
 ### Resources
 - Creating your first ReactJS project [YouTube video](https://www.youtube.com/watch?v=q7zhs3Jv30E&ab_channel=CodewithNeck)
 - State in class component and state in function component [source code](https://github.com/Nechir-89/state-in-class-vs-in-function)
-### Resources Graph
+
+### map
 ```mermaid
 flowchart TD;
   id1{{ReactJS}}-.->id2(First ReactJS project);
